@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Jitendra Kumawat
 
-<!--
-**jitendrakumawat06/jitendrakumawat06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech Student | Computer Science & Engineering**  
+📍 Studying at **Sobhasaria Group of Institutes**, affiliated with **Bikaner Technical University (BTU)**  
+💡 Passionate about **Web Development, Unreal Engine, and 3D Designing**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 I’m currently learning **Web Development** through a 15-day Summer Training at my college.  
+- 🧠 I love to explore new technologies and improve my coding & design skills.  
+- 🎮 In my free time, I create **3D scenes and animations in Blender**.  
+
+
+---
+
+## 🛠️ Skills & Tools
+- **Programming:** C, C++, HTML, CSS, JavaScript  
+- **Web Development:** Front-End Basics (HTML, CSS, JS)  
+- **3D Design & Animation:** Blender  
+- **Game Development:** Learning **Unreal Engine 5.6**  
+- **Other Tools:** Git, GitHub, Canva, VS Code  
+
+---
+
+## 🎯 Goals
+- 🎮 Create interactive 3D environments in Unreal Engine   
+
+---
+
+## 📫 Connect With Me
+- 📷 Instagram: [@jitendrakumawat06](https://www.instagram.com/jitendrakumawat06)  
+
+---
+
+⭐ **"Learning never stops — I build, create, and share my journey through code and design."**
