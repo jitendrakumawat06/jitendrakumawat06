@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **Web Development** through a 15-day Summer Training at my college.  
+- 🌱 I have completed a 15-day Summer Training in Web Development at my college. 
 - 🧠 I love to explore new technologies and improve my coding & design skills.  
 - 🎮 In my free time, I create **3D scenes and animations in Blender**.  
 
